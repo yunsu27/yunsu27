@@ -49,7 +49,7 @@
 - 커밋 260개 · **PR 54건 병합** · 팀원 PR 리뷰와 머지
 
 ### 칼로리 소모량 예측 AI 해커톤
-`2026.02` · 팀 프로젝트 3명
+`2026.02` · 팀 프로젝트 3명 · [Repository](https://github.com/yunsu27/calories-burned-prediction)
 
 운동 시간·심박수·체온과 신체 정보로 소모 칼로리를 예측
 
