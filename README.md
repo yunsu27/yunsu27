@@ -18,6 +18,7 @@
 ![Optuna](https://img.shields.io/badge/Optuna-2C5BB4?style=flat-square)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Deep Learning**
 
